@@ -2,4 +2,5 @@ hello this is mehbuba.
 this is my first work.
 this is branch 1
 this is branch 2
-conflict create
+create conflict and resolve
+
